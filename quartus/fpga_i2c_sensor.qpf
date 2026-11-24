@@ -1,0 +1,9 @@
+# ============================================================================
+# Quartus Prime Project File
+# Project: FPGA I2C Sensor Library
+# ============================================================================
+
+QUARTUS_VERSION = "25.1"
+DATE = "23:50:00  November 24, 2026"
+
+PROJECT_REVISION = "fpga_i2c_sensor"

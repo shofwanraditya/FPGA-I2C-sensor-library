@@ -1,0 +1,35 @@
+# ============================================================================
+# Git Ignore File for FPGA & Quartus & Questa Project
+# ============================================================================
+
+# Quartus Temporary & Database Files
+db/
+incremental_db/
+output_files/
+greybox_tmp/
+hc_output/
+.qsys/
+*.bak
+*.orig
+*.rej
+*.rpt
+*.summary
+*.smsg
+*.done
+*.jdi
+*.pin
+*.sof
+*.pof
+*.qws
+
+# Questa / ModelSim Simulation Temp Files
+simulation/work/
+simulation/transcript
+simulation/vsim.wlf
+simulation/*.vcd
+simulation/*.wlf
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
