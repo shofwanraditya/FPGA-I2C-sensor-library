@@ -5,7 +5,7 @@
 // Purpose   : Verifikasi Integrasi bmp280_driver dan i2c_master
 //
 // Revisi    : v2.2 - Sinkronisasi edge SCL yang tepat (count on scl_rise)
-// Author    : [Nama Anda]
+// Author    : Muhammad Shofwan Raditya
 // Date      : 2026-11-24
 // ============================================================================
 

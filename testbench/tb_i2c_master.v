@@ -4,7 +4,7 @@
 // Project   : FPGA I2C Sensor Library
 // Purpose   : Verifikasi I2C Master Controller dengan Model I2C Slave sederhana
 //
-// Author    : [Nama Anda]
+// Author    : Muhammad Shofwan Raditya
 // Date      : 2026-11-24
 // ============================================================================
 

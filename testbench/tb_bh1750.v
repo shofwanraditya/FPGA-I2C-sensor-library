@@ -4,7 +4,7 @@
 // Project   : FPGA I2C Sensor Library
 // Purpose   : Verifikasi Integrasi bh1750_driver dan i2c_master
 //
-// Author    : [Nama Anda]
+// Author    : Muhammad Shofwan Raditya
 // Date      : 2026-11-24
 // ============================================================================
 

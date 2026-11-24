@@ -4,7 +4,7 @@
 // Project   : FPGA I2C Sensor Library
 // Purpose   : Verifikasi Sistem Terintegrasi: BH1750 + BMP280 + UART Output
 //
-// Author    : [Nama Anda]
+// Author    : Muhammad Shofwan Raditya
 // Date      : 2026-11-24
 // ============================================================================
 

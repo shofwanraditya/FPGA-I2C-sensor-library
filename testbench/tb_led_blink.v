@@ -22,7 +22,7 @@
 //          1. Off-by-one toggle count (repeat 40 → formula yang benar)
 //          2. Timestamp display (menambah $timeformat)
 //
-// Author    : [Nama Anda]
+// Author    : Muhammad Shofwan Raditya
 // Date      : 2026-11-24
 // ============================================================================
 
